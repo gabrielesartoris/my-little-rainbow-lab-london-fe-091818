@@ -7,10 +7,12 @@
     }
 
 #yellow {
-    order-top-color: #ff0
+    border-top-color: #ff0;
 }
 
-
+#green {
+    border-top-color: 
+}
 
 div {
   border: 20px solid #000; /* this is short hand for setting
