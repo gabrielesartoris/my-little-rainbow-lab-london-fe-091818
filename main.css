@@ -19,8 +19,13 @@
 }
 
 #indigo {
+  border-top-color: #8a2be2;
+}
+
+#violet {
   border-top-color: 
 }
+
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
