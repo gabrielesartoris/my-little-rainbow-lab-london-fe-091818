@@ -14,6 +14,10 @@
     border-top-color: #00bc3f;
 }
 
+#blue {
+  border-top-color: 
+}
+
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
